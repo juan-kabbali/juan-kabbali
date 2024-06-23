@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <h3> Hello Fellow </h3>
+  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture>
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+devops+and+backend+engineer,;I+who+loves+coding+and+to+solve+complex+problems,;and+I+enjoy+art"></a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--
 **juan-kabbali/juan-kabbali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
