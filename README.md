@@ -7,6 +7,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+devops+and+backend+engineer,;Who+loves+coding,;and+art+:)"></a>
 </p>
 
+<div align="center">
+  <a target="_blank" href="https://stackoverflow.com/users/7207673/juan-kabbali">
+    <img alt="stack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
+  </a>
+  &nbsp; &nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/jp-aguirre/">
+    <img alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
@@ -98,19 +108,4 @@
   <img alt="gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img alt="bitbucket" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
   <img alt="azure devops" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center"> Contact us </h3> 
-
-<div align="center">
-  <a target="_blank" href="https://stackoverflow.com/users/7207673/juan-kabbali">
-    <img alt="stack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/jp-aguirre/">
-    <img alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
 </div>
