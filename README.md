@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello Fellow </h1>
+  <h3> Hello Fellow </h3>
   <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture>
 </div>
 
@@ -104,7 +104,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"> Contact us </h1> 
+<h3 align="center"> Contact us </h3> 
 
 <div align="center">
   <a target="_blank" href="https://stackoverflow.com/users/7207673/juan-kabbali">
